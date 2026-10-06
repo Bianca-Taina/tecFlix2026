@@ -5,8 +5,10 @@ body{
 }
 
 header{
-    border-bottom: solid 2px darkorchid;
+    border: solid 2px darkorchid;
     padding: 20px;
+    font-size: 32px;
+    color: aliceblue;
 }
 
 h1{
