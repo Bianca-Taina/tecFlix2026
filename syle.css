@@ -4,6 +4,10 @@ body{
     font-family: "Arvo", serif;
 }
 
+header{
+    border: solid 2px rpg(245, 237, 178);
+}
+
 h1{
     font-size: 40px;
 }
