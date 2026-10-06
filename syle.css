@@ -1,11 +1,11 @@
 body{
     background-color: black;
-    color: rgb(131, 118, 248);
+    color: rgb(19, 210, 235);
     font-family: "Arvo", serif;
 }
 
 header{
-    border: solid 2px darkorchid;
+    border: solid 2px rgb(83, 94, 241);
     padding: 20px;
     font-size: 32px;
     color: aliceblue;
