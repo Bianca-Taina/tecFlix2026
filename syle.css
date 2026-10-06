@@ -3,3 +3,11 @@ body{
     color: rgb(252, 141, 252);
     font-family: "Arvo", serif;
 }
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
