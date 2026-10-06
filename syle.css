@@ -5,7 +5,8 @@ body{
 }
 
 header{
-    border: solid 2px rpg(245, 237, 178);
+    border-bottom: solid 2px darkorchid;
+    padding: 20px;
 }
 
 h1{
