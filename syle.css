@@ -2,10 +2,11 @@ body{
     background-color: black;
     color: rgb(19, 59, 241);
     font-family: "Arvo", serif;
+    margin: 0px;
 }
 
 header{
-    border: solid 2px rgb(83, 94, 241);
+    border-bottom: solid 2px rgb(83, 94, 241);
     padding: 20px;
     font-size: 32px;
     color: aliceblue;
@@ -21,6 +22,37 @@ section{
 
 .chamada-texto{
     margin-right: 5%;
+}
+
+img{
+    height: 200px;
+}
+
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+
+.categoria h2{
+    color: lightpink;
+    font-weight: 500;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.categoria-videos img{
+    opacity: 0.5;
+    height: 200px;
+}
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 3px solid gren;
 }
 
 h1{
